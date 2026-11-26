@@ -1,0 +1,13 @@
+.streamlit/secrets.toml
+.streamlit/secrets_test.toml
+__pycache__/
+*.pyc
+wishlists.json
+draw.json
+wishlists_test_backup.json
+app_backup.py
+app_before_supabase.py
+app_test.py
+setup_participants.py
+setup_participants_test.py
+reset_test_data.py
